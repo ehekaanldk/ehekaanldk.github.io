@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
@@ -210,3 +211,9 @@ To add a custom directory to your theme-gem, please edit the regexp in `not-pure
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+=======
+# ehekaanldk.github.io
+
+테마입히기
+https://velog.io/@dksduddnr33/GitHub-Pages%EB%A7%8C%EB%93%A4%EA%B8%B01-jekyll-%ED%85%8C%EB%A7%88-%EC%A0%95%ED%95%98%EA%B8%B0
+>>>>>>> fe4f789e4f9a0ee718ef6717df8b6f54728f7851
